@@ -1,3 +1,5 @@
 config.bd
 *.tmp
 *.log
+
+.DS_Store
